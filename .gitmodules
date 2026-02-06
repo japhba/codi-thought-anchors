@@ -1,3 +1,6 @@
 [submodule "codi"]
 	path = codi
 	url = https://github.com/zhenyi4/codi.git
+[submodule "thought-anchors"]
+	path = thought-anchors
+	url = https://github.com/interp-reasoning/thought-anchors/
