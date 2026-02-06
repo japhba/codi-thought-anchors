@@ -206,3 +206,4 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 .DS_Store
+codi_gpt2_ckpt/pytorch_model.bin
