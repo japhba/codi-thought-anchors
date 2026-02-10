@@ -4,3 +4,9 @@
 [submodule "thought-anchors"]
 	path = thought-anchors
 	url = https://github.com/interp-reasoning/thought-anchors/
+[submodule "coconut"]
+	path = coconut
+	url = https://github.com/facebookresearch/coconut
+[submodule "SIM-CoT"]
+	path = SIM-CoT
+	url = https://github.com/InternLM/SIM-CoT.git
